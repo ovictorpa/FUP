@@ -50,9 +50,9 @@ int main (){
         if (qtd == n2) printf("Iguais"); 
         else printf("Diferentes");
 
-    } else printf("Diferentes");
+    } 
     
-
+    else printf("Diferentes");
     
 return 0;
 }
